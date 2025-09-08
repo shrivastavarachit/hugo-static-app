@@ -143,7 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: Offices
       description: The main servers are located here.
       closed: true
     - name: Empty Category
@@ -159,9 +159,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Offices
-      category: North Coast
+      category: Offices
     - name: Backup Gateway
-      category: North Coast
+      category: Offices
     - name: URL/Websites
       description: The web frontend for the application.
       category: Uncategorized
